@@ -2,16 +2,6 @@
   Canvax - AI Powered Website Builder
 </h1>
 
-<img width="1280" alt="Canvax Thumbnail" src="https://github.com/user-attachments/assets/8d11fc9c-8220-4d36-a0e3-271b73a7f23d">
-
-## Introduction
-
-Canvax is a modern, fully responsive website built with a powerful tech stack. This project showcases the use of Next.js for server-side rendering, TailwindCSS for sleek styling, shadcn UI for elegant components, and Clerk for secure authentication.
-
-## Watch Tutorial on YouTube
-
-Check out the preivew to see how this website was built: [Canvax Website Tutorial](https://youtu.be/zSz67kLPbZY?si=mVBTTh23pv_roRHQ)
-
 ## Tech Stack
 
 - **Next.js**: For building the React-based website.
@@ -33,7 +23,7 @@ Make sure that you have installed
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Shreyas-29/Canvax-website.git
+   git clone https://github.com/ajfred20/canvax.git
    cd Canvax-website
    ```
 
